@@ -1,0 +1,26 @@
+/* 
+  Localizable.strings
+  Assignment_2_SwiftApp_00171034
+
+  Created by Chris Daniels on 4/28/23.
+  
+ This file contains localised strings in key value pairs, this reduces clutter in the code by avoiding the use of long strings
+*/
+"introText" = "Your aim is to control Tony the Tardigrade and help him forage enough food before he is forced into metabolic stasis for the next 30 years by scientists looking to investigate Tardigrade resilience.\n\nYou have 60 seconds to gather as much food as possible before the scientist put you to sleep, be aware of the Tardigrade’s natural predators that are hunting him as well.";
+
+"introTitle" = "Welcome to Tardigrade Adventure!";
+
+"pcellInfo" = "Tardigrades often feast on the cells of plants, the pierce the cell walls with its stylets and suck out the nutrients.\n\nScore: 35 points.";
+
+"algaeInfo" = "This algae known as Noctiluca, a small single celled animal (dinoflagellate) lives in many waters of the world. These only come out in the dark and are very nutritious to the tardigrade.\n\nScore: 135 points.";
+
+"bactInfo" = "This salmonella bacteria from the family Enterobacteriaceae, is a single celled bacterium are numerous and although dangerous to humans, are a common source of food for the tardigrade.\n\nScore: 50 points.";
+
+"ambInfo" = "This is a unicellular organism that has the ability to alter it’s shape by the extension and retraction of its pseudopods. These are natural the tardigrade’s natural predators.\n\nScore deduction: 100 points.";
+
+"nemoInfo" = "This roundworm belonging to the family of parasitic worms known as helminths which inhabit a wide range of environments. These predators hunt the tardigrade at night.\n\nScore deduction 200 points.";
+
+"controlInfo" = "To control the tardigrade, tap on the screen in the game area and Tony will head to where you have you tapped.\n\nRotate both of your fingers in a pinching motion to switch from day to night. Rotating left will turn the mode to night-time and rotating right will turn the mode to daytime.
+Different enemies and prey appear at night, it's a chance to score more points but enemies are more dangerous.\n\nCollect the prey to score points but avoid the enemies as these will cost you points.
+";
+
