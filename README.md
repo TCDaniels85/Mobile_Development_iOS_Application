@@ -1,2 +1,4 @@
 # Mobile_Development_iOS_Application
  iOS application developed with swift
+
+The aim of this assignment is to create a game based on the iOS (iPhone Operating System) platform, themed around a science based subject suitable for secondary school children. The application utilises the swift programming language and Xcode development environment (IDE) to produce an interactive, engaging application that takes advantage of the mobile platform and iOS operating system. The project also aims to evaluate the development of an application using swift and Xcode compared to using Kotlin to develop for Android. Therefore, the application presented is a recreation of the game named ‘Tardigrade Adventure’ developed for Android in the previous assignment, this will enable thorough and direct comparisons to be made.
